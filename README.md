@@ -1,6 +1,6 @@
  
 
-​																	![](C:\Users\matias\Desktop\Repositorios\Cargador-de-pilas\OJO.jpg)
+​																	![](OJO.jpg)
 
 # Cargador de pilas
 
